@@ -2,9 +2,9 @@
 
 ## Required Tools
 ```
-	•	ATMEGA64 microcontroller
-	•	1 Traffic Light Module
-	•	1 MPX Seven Segment Display (Common Cathode)
+ATMEGA64 microcontroller
+1 Traffic Light Module
+1 MPX Seven Segment Display (Common Cathode)
 ```
 
 ## Project Overview
@@ -17,3 +17,6 @@ Initially, I tried using nested loops to build the counter logic. However, this 
 
 Then I came up with a better solution:</br>
 Instead of looping, I simply took the two-digit number and split it into tens and ones using the / and % operators in C++. This way, both digits could be extracted and displayed correctly on the 7-segment module.
+
+## Gif showing example:
+![gif](Untitled.gif)
