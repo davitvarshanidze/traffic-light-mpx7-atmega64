@@ -20,3 +20,5 @@ Instead of looping, I simply took the two-digit number and split it into tens an
 
 ## Gif showing example:
 ![gif](Untitled.gif)
+
+You can also watch full video there is Untitled.mp4
